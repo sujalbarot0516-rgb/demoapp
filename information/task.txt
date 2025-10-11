@@ -1,2 +1,4 @@
 1. Login Page
 2. Home
+3. About
+4. Contact
